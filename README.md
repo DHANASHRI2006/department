@@ -27,6 +27,8 @@ A Full-Stack Web Application to manage College Departments and Faculty Members. 
 
 ## 🚀 How to Run the Application
 
+In terminal
+
 Frontend
 
    cd "path of the folder"
@@ -38,5 +40,6 @@ Frontend
    npm run dev
 
 Backend
+
   node server.cjs
   
